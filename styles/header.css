@@ -1,0 +1,53 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.3px solid rgba(70, 163, 88, 0.5);
+    margin-bottom: 12px;
+    padding-top: 30px;
+}
+
+.navigation {
+    display: inline-block;
+    margin-top: 8px;
+    margin-right: 50px;
+    color: rgba(61, 61, 61, 1);
+    text-decoration: none;
+}
+
+.navigation:hover {
+    color:rgba(70, 163, 88, 1);
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: auto;
+    margin-right: 229px;
+}
+
+.logo img {
+    display: block;
+}
+
+.home {
+    border-bottom: 3px solid rgba(70, 163, 88, 1);
+    padding-bottom: 25px;
+}
+
+.blogs {
+    margin-right: 0px
+}
+
+.button-login {
+    border-radius: 6px;
+    background-color: white;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 299px;
+    padding: 0px;
+}
+
+.button-login img {
+    display: block;
+}
