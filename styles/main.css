@@ -118,7 +118,6 @@
 .product {
     width: 250px;
     height: 250px;
-
 }
 
 .picture-flowers {
@@ -129,7 +128,6 @@
 .flowers {
     margin-right: 33px;
     margin-bottom: 70px;
-    width: 258px;
     text-align: center;
 }
 
@@ -200,7 +198,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 1205px;
     margin-top: 94px;
     margin-bottom: 138px;
     gap: 28px;
@@ -211,18 +208,12 @@
     font-size: 14px;
 }
 
-.fon-flower {
-    background: rgba(251, 251, 251, 1);
-    width: 586px;
-    height: 302px;
-}
-
 .ad-flower {
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     justify-content: center;
+    background: rgba(251, 251, 251, 1);
     width: 586px;
-    height: 250px;
 }
 
 .image-ad img {
@@ -245,8 +236,6 @@
 }
 
 .main-name {
-    width: 150px;
-    height: 48px;
     font-family: Cera Pro;
     font-size: 18px;
     font-weight: 900;
@@ -256,8 +245,6 @@
 }
 
 .shop-description {
-    width: 292px;
-    height: 45px;
     font-family: Cera Pro;
     font-weight: 400;
     line-height: 24px;
@@ -270,7 +257,6 @@
     display: inline-block;
     background-color: rgba(70, 163, 88, 1);
     width: 140px;
-    height: 40px;
     border: none;
     border-radius: 6px;
     color: white;
@@ -291,8 +277,6 @@
 }
 
 .name {
-    width: 209px;
-    height: 16px;
     font-family: Cera Pro;
     font-size: 30px;
     font-weight: 700;
@@ -303,8 +287,6 @@
 }
 
 .shop-info {
-    width: 557px;
-    height: 19px;
     font-family: Cera Pro;
     font-size: 14px;
     font-weight: 400;
@@ -322,7 +304,6 @@
 
 .backgrounds-text {
     width: 268px;
-    height: 167px;
     background: rgba(251, 251, 251, 1);
 }
 
@@ -332,14 +313,11 @@
     font-weight: 500;
     line-height: 16px;
     text-align: left;
-    width: 222px;
-    height: 16px;
     color: rgba(70, 163, 88, 1);
 }
 
 .name-ad {
     width: 189px;
-    height: 52px;
     font-family: Cera Pro;
     font-size: 20px;
     font-weight: 700;
@@ -349,8 +327,6 @@
 }
 
 .description {
-    width: 242px;
-    height: 44px;
     font-family: Cera Pro;
     font-size: 14px;
     font-weight: 400;
@@ -368,8 +344,6 @@
 }
 
 .link-read {
-    width: 90px;
-    height: 16px;
     font-family: Cera Pro;
     font-size: 14px;
     font-weight: 500;
